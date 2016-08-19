@@ -1,4 +1,4 @@
-1. Read the presentation file Sample Size and Portfolio Construction.pdf, where the results of analysis are presented.
+1. Read the presentation file Sample Size and Portfolio Construction.pdf, where the results of the analysis are presented.
 2. Open the file Sample Size and Portfolio Construction.R.
 3. Open menu Edit in your R shell.
 4. Select Execute or Run All.
