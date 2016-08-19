@@ -1,0 +1,7 @@
+1. Open the file Case Study 4.
+2. Open menu Edit in your R shell.
+3. Select Execute or Run All.
+4. There will appear a chart window. Use chart menu in the R shell (Quartz) to move back and forth from Mean excess returns to Risks and Tracking errors.
+5. The script file uses the libraries quantmod and XML. To install them type in your Console 
+> install.packages(‘quantmod’)
+> install.packages(‘XML’)
